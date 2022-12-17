@@ -2,7 +2,7 @@
           
 <h3 align="center">Computer Science undergrad and a passionate backend developer</h3>
 
-- 🔭 I’m currently working on **Komo**
+- 🔭 I’m currently working on **Dinero** an to split your money easily
 
 - 🌱 I’m currently learning **FastAPI**
 
