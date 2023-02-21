@@ -2,7 +2,7 @@
           
 <h3 align="center">Computer Science undergrad and a passionate backend developer</h3>
 
-- 🔭 I’m currently working on [**MOORSEE**](https://github.com/jupeeter8/upgraded-disco) an app to split your money easily
+- 🔭 I’m currently working on [**UNNECESSARY BEEPS**](https://github.com/jupeeter8/upgraded-disco) an app to send Morse code to your friends
 
 - 🌱 I’m currently learning **FastAPI**
 
